@@ -6,7 +6,7 @@
     text-align: center;
 }
 
-h1 {
+h1, p {
     color: black;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1000px;
