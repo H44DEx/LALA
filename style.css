@@ -19,6 +19,8 @@ h1, p {
 }
 
 button {
+    text-align: center;
+    align-items: center;
     height: 30%;
     width: 50%;
 }
