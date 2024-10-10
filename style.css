@@ -25,3 +25,12 @@ button {
     background-color: #fb2f51;
     border-radius: 30px;
 }
+
+button:hover {
+    height: 70%;
+    width: 90%;
+    background-color: brown;
+}
+button:active {
+    background-color: burlywood;
+}
