@@ -2,10 +2,6 @@
     --cor-de-fundo: #EBECEE;
 }
 
-body {
-    display: flex;
-}
-
 .pesquisa {
     text-align: center;
 }
