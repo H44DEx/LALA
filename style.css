@@ -1,3 +1,7 @@
 :root {
     --cor-de-fundo: #EBECEE;
 }
+
+.clicavel {
+    background-image: url(https://th.bing.com/th/id/OIP.1erOIkEc0mSqKfgj4tYuBQHaEK?w=291&h=180&c=7&r=0&o=5&pid=1.7);
+}
