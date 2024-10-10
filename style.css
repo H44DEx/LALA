@@ -17,3 +17,8 @@ h1, p {
     font-size: 70px;
     text-align: center;
 }
+
+button {
+    height: 30%;
+    width: 50%;
+}
