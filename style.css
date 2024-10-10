@@ -22,4 +22,6 @@ button {
     align-items: center;
     height: 60%;
     width: 80%;
+    background-color: #fb2f51;
+    border-radius: 30px;
 }
