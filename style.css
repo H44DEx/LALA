@@ -1,6 +1,5 @@
-:root {
-    --cor-de-fundo: #FFF389
-    ;
+body {
+    background-color: rgb(253, 202, 136);
 }
 
 .pesquisa {
